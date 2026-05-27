@@ -1,1 +1,3 @@
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+theme: jekyll-theme-minimal
+title: Jeremy Santiago
+description: Technical Project Manager
