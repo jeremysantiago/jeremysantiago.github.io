@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Jeremy's homepage
+title: Jeremy Santiago
 description: Bookmark this to keep an eye on my project updates!
 source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
