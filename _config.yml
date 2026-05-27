@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
-title: Jeremy Santiago
-description: Bookmark this to keep an eye on my project updates!
 source "https://rubygems.org"
+
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
