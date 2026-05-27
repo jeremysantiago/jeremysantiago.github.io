@@ -1,1 +1,3 @@
-# jeremysantiago.github.io
+theme: jekyll-theme-minimal
+title: Jeremy's homepage
+description: Bookmark this to keep an eye on my project updates!
