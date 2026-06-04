@@ -61,7 +61,7 @@ author:
   bio    : "Technical Program Manager"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/jeremyksantiago/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
