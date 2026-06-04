@@ -104,13 +104,6 @@ defaults:
     values:
       layout: home
       author_profile: true
-  # _resume
-  - scope:
-      path: "_resume"
-      type: pages
-    values:
-      layout: home
-      author_profile: true
       
 category_archive:
   type: liquid
