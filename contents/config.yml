@@ -19,10 +19,10 @@ sections:
     title: Jeremy Santiago
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
-    nav: CERTIFICATIONS
+    nav: Publications
     title: CERTIFICATIONS
     icon: bi-file-text-fill
   - id: awards
-    nav: PROJECTS AND RECOGNITION
+    nav: Awards
     title: PROJECTS AND RECOGNITION
     icon: bi-award-fill
