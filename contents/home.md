@@ -1,6 +1,6 @@
 
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently looking for a role in Technical Program Management, Project Management or Content Operations
 
 #### Contact
 
