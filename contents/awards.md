@@ -1,6 +1,4 @@
 
-- AI Certifications (Anthropic) | Claude 101 • AI Fluency Framework & Foundations • Introduction to Claude Cowork
-
 - Host & Producer, Rest Here Podcast | Lead all aspects of podcast production, coordinating guest outreach, interview planning, content creation, and distribution to build and engage a growing audience.
 
 - Photographer | Produced cultural photography recognized with Honorable Mention in the Consulate General of Japan Once in Japan Photo Contest.
