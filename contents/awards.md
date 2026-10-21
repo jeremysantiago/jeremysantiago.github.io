@@ -1,12 +1,14 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- AI Certifications (Anthropic) | Claude 101 • AI Fluency Framework & Foundations • Introduction to Claude Cowork
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Host & Producer, Rest Here Podcast | Lead all aspects of podcast production, coordinating guest outreach, interview planning, content creation, and distribution to build and engage a growing audience.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Photographer | Produced cultural photography recognized with Honorable Mention in the Consulate General of Japan Once in Japan Photo Contest.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- Production Crew (IMDB-credited) | Contributed to 40+ anime and film projects in coordination roles.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Content Creator | Produce YouTube series generating 70K+ views, showcasing creative storytelling and audience engagement.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Eagle Scout | Earned the highest rank in the Boy Scouts of America, demonstrating leadership, project management, and community service.
+ 
+- Pickleball & Volleyball Organizer | Compete and organize friendly tournaments demonstrating teamwork, agility, adaptability, collaborative strategy, leadership and a competitive drive both on and off the court.
