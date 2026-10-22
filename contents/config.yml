@@ -18,11 +18,11 @@ sections:
     nav: HOME
     title: Jeremy Santiago
     href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
-    nav: Publications
+  - id: certifications
+    nav: CERTIFICATIONS
     title: CERTIFICATIONS
     icon: bi-file-text-fill
-  - id: awards
-    nav: Awards
+  - id: projectsandrecognition
+    nav: PROJECTS AND RECOGNITION
     title: PROJECTS AND RECOGNITION
     icon: bi-award-fill
