@@ -23,6 +23,6 @@ sections:
     title: CERTIFICATIONS
     icon: bi-file-text-fill
   - id: projects
-    nav: PROJECTS
-    title: PROJECTS
+    nav: PROJECTS & RECOGNITION
+    title: PROJECTS & RECOGNITION
     icon: bi-award-fill
