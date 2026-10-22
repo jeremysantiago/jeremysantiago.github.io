@@ -3,7 +3,6 @@ page-top-title: Jeremy Santiago
 top-section-bg-text: Localization and Project Management Specialist
 backgrounds:
   - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Jeremy Santiago 2026. All Rights Reserved.'
