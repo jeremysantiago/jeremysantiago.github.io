@@ -17,6 +17,10 @@ sections:
     nav: HOME
     title: Jeremy Santiago
     href: '#page-top' # Default to '#<id>' if not specified
+  - id: about
+    nav: ABOUT
+    title: ABOUT
+    icon: question-square-fill
   - id: certifications
     nav: CERTIFICATIONS
     title: CERTIFICATIONS
