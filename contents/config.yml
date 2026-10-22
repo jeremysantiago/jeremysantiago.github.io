@@ -20,7 +20,7 @@ sections:
   - id: about
     nav: ABOUT
     title: ABOUT
-    icon: bi-question-fill
+    icon: question-circle-fill
   - id: certifications
     nav: CERTIFICATIONS
     title: CERTIFICATIONS
